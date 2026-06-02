@@ -10,7 +10,6 @@ wheels/
 .venv
 
 # Personal files
-.pdf
 .env
 
 # ChromaDB
@@ -22,3 +21,6 @@ Thumbs.db
 
 # Streamlit Cache
 .streamlit/
+
+# Ignore PDFs
+data/*.pdf
